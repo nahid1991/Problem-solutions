@@ -8,15 +8,13 @@ You can assume that there will be at most one pair of numbers summing up to the 
 
 > ### Sample input
 >
-> array = [3, 5,
-> -4, 8, 11, 1,
-> -1, 6]
+> `array = [3, 5, -4, 8, 11, 1, -1, 6]`
 >
-> target = 10
+> `target = 10`
 
 > ### Sample output
 >
-> [-1, 11]
+> `[-1, 11]`
 
 ## Hints
 
