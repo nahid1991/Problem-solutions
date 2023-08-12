@@ -4,7 +4,7 @@ export function isValidSubsequence(
 ): boolean {
   let seqIdx = 0;
   for (const num of array) {
-    if (seqIdx === num) seqIdx++;
+    if (sequence[seqIdx] === num) seqIdx++;
     if (seqIdx === sequence.length) break;
   }
 
